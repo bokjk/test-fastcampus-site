@@ -1,6 +1,6 @@
 #Fastcampus Site
 ## Contributor
-- @bokjk (복정규)
+- @bokjk
 
 ## Tech Requirment (Tech Stack)
 - Create-next-app
